@@ -1,0 +1,13 @@
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\bin\Release\HelloWcfClientConsoleApplication.exe
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\bin\Release\HelloWcfClientConsoleApplication.pdb
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.exe
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.pdb
+C:\Users\MAK_SANAU\Documents\Visual Studio 2008\Projects\TFS\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.exe
+C:\Users\MAK_SANAU\Documents\Visual Studio 2008\Projects\TFS\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.pdb
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfClientConsoleApplication\bin\Release\HelloWcfClientConsoleApplication.exe.config
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfClientConsoleApplication\bin\Release\HelloWcfClientConsoleApplication.exe
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfClientConsoleApplication\bin\Release\HelloWcfClientConsoleApplication.pdb
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.exe
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfClientConsoleApplication\obj\Release\HelloWcfClientConsoleApplication.pdb

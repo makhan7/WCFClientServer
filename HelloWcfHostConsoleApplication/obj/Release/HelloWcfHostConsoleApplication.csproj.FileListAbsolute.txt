@@ -1,0 +1,17 @@
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfHostConsoleApplication.exe
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfHostConsoleApplication.pdb
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.exe
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.pdb
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfServiceLibrary.dll
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfServiceLibrary.pdb
+C:\Users\MAK_SANAU\Documents\Visual Studio 2008\Projects\TFS\Projects\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.exe
+C:\Users\MAK_SANAU\Documents\Visual Studio 2008\Projects\TFS\Projects\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.pdb
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfHostConsoleApplication.exe.config
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfHostConsoleApplication.exe
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfHostConsoleApplication.pdb
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfServiceLibrary.dll
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\bin\Release\HelloWcfServiceLibrary.pdb
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.exe
+D:\Sorting_2013\Theory\Code Sample\All_Projects_Sony_Vaio\WCF Solution\HelloWcfHostConsoleApplication\obj\Release\HelloWcfHostConsoleApplication.pdb

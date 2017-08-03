@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWcfHostConsoleApplication", "HelloWcfHostConsoleApplication\HelloWcfHostConsoleApplication.csproj", "{F0EA9ED2-5F05-4C1A-A956-BD273464AB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWcfServiceLibrary", "HelloWcfServiceLibrary\HelloWcfServiceLibrary.csproj", "{42BC741E-FC14-4431-897D-BF4B070B415B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWcfClientConsoleApplication", "HelloWcfClientConsoleApplication\HelloWcfClientConsoleApplication.csproj", "{8097C75A-ECEE-4AE6-8E84-996A17C1F55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0EA9ED2-5F05-4C1A-A956-BD273464AB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EA9ED2-5F05-4C1A-A956-BD273464AB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EA9ED2-5F05-4C1A-A956-BD273464AB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EA9ED2-5F05-4C1A-A956-BD273464AB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BC741E-FC14-4431-897D-BF4B070B415B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BC741E-FC14-4431-897D-BF4B070B415B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BC741E-FC14-4431-897D-BF4B070B415B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BC741E-FC14-4431-897D-BF4B070B415B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8097C75A-ECEE-4AE6-8E84-996A17C1F55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8097C75A-ECEE-4AE6-8E84-996A17C1F55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8097C75A-ECEE-4AE6-8E84-996A17C1F55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8097C75A-ECEE-4AE6-8E84-996A17C1F55A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

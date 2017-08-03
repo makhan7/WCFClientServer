@@ -1,0 +1,5 @@
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\bin\Debug\HelloWcfClientConsoleApplication.exe
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\bin\Debug\HelloWcfClientConsoleApplication.pdb
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Debug\HelloWcfClientConsoleApplication.exe
+C:\Users\sanau\Documents\Visual Studio 2008\Projects\WCF Solution\HelloWcfClientConsoleApplication\obj\Debug\HelloWcfClientConsoleApplication.pdb
